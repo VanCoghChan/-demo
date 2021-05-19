@@ -5,7 +5,7 @@
   *  2.数据预处理（excel、pandas）
   *  特征工程（word2vec、cnn、onehot...）
   *  建模、模型选取（xgboost)
-  *  
+ 
   
 ### 前端/后端
   * Vue + bootstrap4
